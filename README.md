@@ -12,7 +12,7 @@
 
 2021:
 
-1. $Towards Emotional  Support Dialog Systems  $ $\textcolor{Red}{(ACL, CCF-A)}$
+1. Towards Emotional  Support Dialog Systems   $\textcolor{Red}{(ACL, CCF-A)}$
 
    $\bullet Motivation :$
 
